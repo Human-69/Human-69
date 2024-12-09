@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Human-69
-- 👀 I’m interested in Computer Graphics
-- 🌱 I’m currently learning OpenGL
+- 👀 I’m interested in Computer Simulations
 - 📫 How to reach me by email at: markcodinggithub@gmail.com
 - 😄 Pronouns: He, Him
 
